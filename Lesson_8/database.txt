@@ -1,0 +1,6 @@
+{"branch": "Branch_print", "type": "printer", "name": "HP", "number": 5, "color": "Grey"}
+{"branch": "Branch_print", "type": "printer", "name": "HP", "number": 4, "color": "Grey"}
+{"branch": "Branch_scan", "type": "scanner", "name": "canon", "number": 3, "description": "\u0421\u043a\u0430\u043d\u0435\u0440 \u043d\u0430 \u0441\u043a\u043b\u0430\u0434"}
+{"branch": "Branch_xerox", "type": "xerox", "name": "xerox", "number": 2, "label": "\u041a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u043b\u044c\u043d\u044b\u0439 \u0430\u043f\u043f\u0430\u0440\u0430\u0442"}
+{"branch": "Branch_print", "type": "printer", "name": "HP", "number": 4, "color": "Grey"}
+{"branch": "Branch_print", "type": "printer", "name": "HP", "number": 3, "color": "Grey"}
